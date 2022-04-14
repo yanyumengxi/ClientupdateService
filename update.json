@@ -1,1 +1,1 @@
-{"app": {"minecraft": {"server": {"plugin":{"AdminGroup": {"name": "AdminGroup", "version": "1.0-Beta","authors":[{"name": "Lingqi","github": "https://github.com/yanyumengxi/"},{"name": "JiNan"}]}}}}}}
+{"app": {"minecraft": {"server": {"plugin":{"AdminGroup": {"name": "AdminGroup", "version": "1.0-Beta","authors":[{"name": "Lingqi","github": "https://github.com/yanyumengxi/"},{"name": "JiNan","github":"https://github.com/JiNan"}]}}}}}}
